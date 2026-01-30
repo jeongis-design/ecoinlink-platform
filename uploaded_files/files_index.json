@@ -1,0 +1,33 @@
+{
+  "documents": [],
+  "tables_parsed": [],
+  "tables_source_info": [],
+  "images": [
+    {
+      "original_name": "에코인링크 로고 BW",
+      "file_name": "에코인링크 로고 BW.png",
+      "file_path": "/workspace/ecoinlink_platform/public/images/에코인링크 로고 BW.png",
+      "rel_path": "images/에코인링크 로고 BW.png",
+      "file_type": "png",
+      "category": "images"
+    },
+    {
+      "original_name": "에코인링크 로고",
+      "file_name": "에코인링크 로고.png",
+      "file_path": "/workspace/ecoinlink_platform/public/images/에코인링크 로고.png",
+      "rel_path": "images/에코인링크 로고.png",
+      "file_type": "png",
+      "category": "images"
+    }
+  ],
+  "summary": {
+    "total_files": 2,
+    "by_category": {
+      "documents": 0,
+      "tables_parsed": 0,
+      "tables_source_info": 0,
+      "images": 2
+    },
+    "processing_time": null
+  }
+}
